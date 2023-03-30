@@ -1,8 +1,8 @@
-# Web Development Project 5 - *data Dashboard*
+# Web Development Project 5 - *Data Dashboard*
 
 Submitted by: **Charidi Stevens**
 
-This web app: **insert description**
+This web app: **Data Dashboard is a web app that uses spoonacular API to make a Data dashboard of recipes that includes recipes name, price, cook time and health score.**
 
 Time spent: **10** hours spent in total
 
