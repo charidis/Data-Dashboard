@@ -1,0 +1,25 @@
+.Nav{
+    background-color: #424242;
+    
+    width: 18vw;
+    margin: 5px 10px;
+    border-radius: 5px;
+    padding: 10px 5px;
+
+}
+.Nav li{
+    list-style-type: none; 
+    padding: 10px ;
+}
+
+.Nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+ 
+    
+}
+.selected{
+    background-color: #FF0D86;
+    border-radius: 5px;
+}
